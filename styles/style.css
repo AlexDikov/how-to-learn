@@ -144,7 +144,7 @@
   color: #000;
 }
 
-.section__title {
+.section-title {
   margin: 100px auto 0px;
   padding: 0px;
   max-width: 60%;
@@ -155,7 +155,7 @@
   color: #000;
 }
 
-.section__subtitle {
+.section-subtitle {
   margin: 20px auto 0px;
   padding: 0px;
   max-width: 60%;
@@ -270,7 +270,7 @@ z-index: 0;
   overflow: hidden;
 }
 
-.section__title_theme_dark {
+.section-title_theme_dark {
   max-width: 60%;
   margin-top: 90px;
   text-align: center;
@@ -279,7 +279,7 @@ z-index: 0;
   font-weight: bold;
   color: #fff;
 }
-.section__subtitle_theme_dark {
+.section-subtitle_theme_dark {
 color: #fff;
 }
 
